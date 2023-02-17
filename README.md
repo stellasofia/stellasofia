@@ -1,5 +1,7 @@
 # 💫 About Me:
-💻 I'm currently working on some projects to improve my coding skills.<br>🌱 Right now I'm working on mostly Java related projects.
+🔭 Student @ FH Campus Wien <br>
+🌱 I'm currently learning Java
+
 
 
 # 💻 Tech Stack:
