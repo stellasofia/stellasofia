@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Student @ FH Campus Wien <br>
-🌱 I'm currently learning Java
+🌱 I'm currently learning Java and C
 
 
 
